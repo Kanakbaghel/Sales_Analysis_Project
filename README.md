@@ -1,6 +1,10 @@
-# Sales_Analysis_Project
-Graded Power BI Mini Project - Sales Analysis Using Power BI | Data Science Course
-> 🎓 *Data Science & Business Analytics Program – IIT Guwahati (via Emeritus)*
+<p align="center">
+  <img src="https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi&logoColor=white" alt="Power BI Badge" />
+  <img src="https://img.shields.io/badge/Status-Completed-success" alt="Completed Badge" />
+</p>
+
+<h1 align="center">Sales Analysis - Power BI Mini Project</h1>
+<p align="center"><em>Graded assignment for the Data Science &amp; Business Analytics Program by IIT Guwahati</em></p>
 
 ---
 
@@ -69,7 +73,10 @@ Provides product and pricing metadata:
 - Saved as: `Sales_Analysis_Dashboard.pbix`
 
 ---
+<img width="984" height="560" alt="image" src="https://github.com/user-attachments/assets/ac4fb9d7-a4f9-4c2c-8677-cedc5aea3f07" />
+<p align="center"><strong>--- Presenting Sales Analysis ---</strong></p>
 
+---
 ## Skills & Tools Applied
 
 | Tool            | Usage                            |
